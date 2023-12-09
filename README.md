@@ -1,5 +1,7 @@
 # CS184 Final Project
 
+## Child Mind Institute - Detect Sleep States (Kaggle)
+
 ### Files
 - model.ipynb
     - notebook with full model used to train and test (needs full dataset)
